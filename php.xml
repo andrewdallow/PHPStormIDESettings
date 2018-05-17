@@ -1,0 +1,20 @@
+<application>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="C:\Users\andre\AppData\Roaming\Composer\vendor\squizlabs\php_codesniffer\bin\phpcs.bat" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="C:\xampp\php\php.exe" id="562f6c08-8dd1-45e7-bd75-a9674a63ccad" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="docker://phpstorm/php-71-apache-xdebug:latest/php" id="26a4b70d-3412-4e4b-b6bb-ea8093c36086" name="phpstorm/php-71-apache-xdebug:latest" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="phpstorm/php-71-apache-xdebug:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      </interpreter>
+    </interpreters>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="26a4b70d-3412-4e4b-b6bb-ea8093c36086" load_method="CUSTOM_LOADER" configuration_file_path="/opt/project/phpunit.xml" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+</application>

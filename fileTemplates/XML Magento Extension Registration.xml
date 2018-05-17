@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <modules>
+        <${NAME}>
+            <active>${Active}</active>
+            <codePool>${CodePool}</codePool>
+        </${NAME}>
+    </modules>
+</config>
