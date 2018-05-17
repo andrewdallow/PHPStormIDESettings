@@ -4,10 +4,11 @@
 * Long description for file (if any)...
 *
 * @category   Zend
-* @package    Zend_
-* @subpackage 
+* @package    Zend_$package
+* @subpackage $subpackage
 * @copyright  Copyright (c) 2018 ecommistry (http://www.ecommistry.com)
 * @license    http://framework.zend.com/license   BSD License
-* @version    Release: @package_version@
+* @version    Release: 1.0
 * @link       http://framework.zend.com/package/PackageName
+* @since      Class available since Release 1.0
 */
